@@ -15,7 +15,7 @@ The output looks like this:
 
 ```
 If you see **nothing**, your eyesight is fine. That creates absolutely **nothing** but
-if you imagine there's something in your terminal, there **is** something on your terminal.
+if you imagine there's something on your terminal, there **is** something on your terminal.
 
 And I have created a state-of-the-art high-performance algorithm using my Programming language:
 ```
