@@ -11,9 +11,9 @@ So first, let's make a hello-world application using Anycode.
 YOU CAN JUST IMAGINE YOU'RE WRITING SOMETHING INTERESTING,
 AND YOU DID.**) <br>
 The output looks like this:
-<br>```
+```
 
-```<br>
+```
 If you see **nothing**, your eyesight is fine. That creates absolutely **nothing** but
 if you imagine there's something in your terminal, there **is** something on your terminal.
 
